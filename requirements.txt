@@ -7,3 +7,8 @@ uvicorn
 
 # Docling
 docling
+
+# OpenAI API
+openai
+
+python-multipart
