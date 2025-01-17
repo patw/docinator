@@ -5,6 +5,8 @@ Provides an API to input PDF files and convert to Markdown text, with some summa
 ## Local Installation
 
 ```
+python3 -m venv venv
+source venv/bin/activate
 pip install -r requirements.txt
 ```
 
